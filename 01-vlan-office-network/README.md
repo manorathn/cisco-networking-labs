@@ -100,6 +100,17 @@ Fa0/1 belongs to VLAN 10
 Fa0/2 belongs to VLAN 20
 Fa0/3 belongs to VLAN 30
 
+## Screenshots
+
+### Network Topology
+![Network Topology](screenshots/topology.png)
+
+### VLAN Verification
+![VLAN Verification](screenshots/vlan-brief.png)
+
+### VLAN Isolation Test
+![Failed Ping](screenshots/failed-ping-sales.png)
+
 Connectivity Testing
 
 From ADMIN-PC, I tested connectivity to SALES-PC using:
